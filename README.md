@@ -1,4 +1,4 @@
-# MusicNeuro 🎵😊
+# MusicNeuro 
 
 Real-time emotion-based music player using facial recognition. Automatically plays songs that match your mood!
 
