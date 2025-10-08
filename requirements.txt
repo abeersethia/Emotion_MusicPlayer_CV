@@ -1,0 +1,6 @@
+opencv-python>=4.8.0
+fer>=22.5.0
+pygame>=2.5.0
+numpy>=1.26.0
+tensorflow>=2.15.0
+
